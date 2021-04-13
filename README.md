@@ -18,10 +18,9 @@ Perfil - Maria Brito
 <li>⚡ Aprendiz, iniciante, defensora de inclusao de mulheres na Ti, defensora de práticas **SÓLIDAS** e Desenvolvimento Ágil</li>
 <b>
 <h2>Graduação <a href='https://emojitool.com/pt/books'>📚</a></h2>
-<li>Bacharel em Sistemas de Informação - 
- UNIDOMPEDRO - 
- >https://dompedroead.com.br/
+<li>Bacharel em Sistemas de Informação -  UNIDOMPEDRO https://dompedroead.com.br/
  </b>
+ 
  <h2>Linguagens e ferramentas que tenho conhecimento</h2>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/vscode.png"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/vscode.png" style="max-width:100%;"></a></p>
@@ -41,7 +40,7 @@ Perfil - Maria Brito
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png"><img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/python.png" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" href='https://icon-icons.com/pt/icone/prog-django/50802'><img aling="left" alt="icon-incons" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-django_icon-icons.com_50802.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" href='https://icon-icons.com/pt/icone/arquivo-tipo-django/130645'><img aling="left" alt="icon-incons" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" style="max-width:100%;"></a></p>
 
 <p><a target="_blank" href='https://icon-icons.com/pt/icone/arquivo-tipo-vue/130078'><img aling="left" alt="icon-incons" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="max-width:100%;"></a></p> 
 <p><a target="_blank" rel="noopener noreferrer" href="https://icon-icons.com/pt/icone/atlassian-jira-logo/170511"><img aling="left" alt="icon-incons" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" style="max-width:100%;"></a></p>
