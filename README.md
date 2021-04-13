@@ -20,7 +20,7 @@ Perfil - Maria Brito
 <h2>Graduação <a href='https://emojitool.com/pt/books'>📚</a></h2>
 <li>Bacharel em Sistemas de Informação - 
  UNIDOMPEDRO - 
- >https://dompedroead.com.br/<
+ >https://dompedroead.com.br/
  </b>
  <h2>Linguagens e ferramentas que tenho conhecimento</h2>
 
@@ -47,7 +47,6 @@ Perfil - Maria Brito
 <p><a target="_blank" rel="noopener noreferrer" href="https://icon-icons.com/pt/icone/atlassian-jira-logo/170511"><img aling="left" alt="icon-incons" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" style="max-width:100%;"></a></p>
 
 * <h2>Contate-me<h2>
-
 [<img align="left" alt="Maria G C Brito | LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/31/PNG/256/sociallinkedin_member_2751.png">](https://www.linkedin.com/in/maria-das-gra%C3%A7as-brito-21b34527/)
 [<img align="left" alt="Maria G C Brito | Email" width="22px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png">](mailto:mariabrito070@gmail.com)
 
