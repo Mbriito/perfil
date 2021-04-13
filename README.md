@@ -19,8 +19,8 @@ Perfil - Maria Brito
 <b>
 <h2>Graduação <a href='https://emojitool.com/pt/books'>📚</a></h2>
 <li>Bacharel em Sistemas de Informação - 
- UNIDOMPEDRO
- <a>https://dompedroead.com.br/</a>
+ UNIDOMPEDRO - 
+ >https://dompedroead.com.br/<
  </b>
  <h2>Linguagens e ferramentas que tenho conhecimento</h2>
 
