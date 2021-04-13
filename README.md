@@ -39,7 +39,7 @@ Perfil - Maria Brito
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png"><img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/github.png" style="max-width:100%;"></a></p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png"><img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/python.png" style="max-width:100%;"></a></p>
-
+[<img align="left" alt="icon-incons" | width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png">]
 <p><a target="_blank" href='https://icon-icons.com/pt/icone/arquivo-tipo-django/130645'><img aling="left" alt="icon-incons" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" style="max-width:100%;"></a></p>
 
 <p><a target="_blank" href='https://icon-icons.com/pt/icone/arquivo-tipo-vue/130078'><img aling="left" alt="icon-incons" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="max-width:100%;"></a></p> 
